@@ -1,4 +1,4 @@
-Exercícios propostos pela disciplina de PTC3569 do Engenharia Poli USP
+#### Exercícios propostos pela disciplina de PTC3569 do Engenharia Poli USP
 Exercício 1-Aplicando LMS em python
 Exercício 2-Classificação através do uso de funções discriminantes, 3 classes e 1 classe indeterminada
 Exercício 3-
